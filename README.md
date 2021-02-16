@@ -12,6 +12,9 @@ My solution to the Easybank Landing Page challenge, built using vanilla HTML, CS
 
 ## Loopstudios Landing Page
 [Repo](https://github.com/matthew-io/frontendmentor-loopstudios) | [Live Site](https://objective-williams-a1e086.netlify.app/) 
+</br>
+</br>
+<img src="https://i.gyazo.com/939d700d6b44e2f7e4eb6e44c5f08a89.jpg" width="850" height="500">
 
 My solution to the Loopstudios Landing Page challenge, built using vanilla HTML, CSS & JS.
 
