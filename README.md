@@ -19,6 +19,9 @@ My solution to the Easybank Landing Page challenge, built using vanilla HTML, CS
 My solution to the Loopstudios Landing Page challenge, built using vanilla HTML, CSS & JS.
 
 ## Fylo landing page with two column layout
-[Repo](https://github.com/matthew-io/frontendmentor-fylo) | [Live Site](https://github.com/matthew-io/frontendmentor-fylo)
+[Repo](https://github.com/matthew-io/frontendmentor-fylo) | [Live Site](https://wonderful-cray-2b6012.netlify.app/)
+</br>
+</br>
+<img src="https://i.gyazo.com/32fc138382a8b2a6afb9ce4883c03285.png" width="850" height="500">
 
 My solution to the Fylo Landing Page challenge, built with HTML & CSS.
