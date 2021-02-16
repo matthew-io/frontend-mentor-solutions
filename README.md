@@ -14,7 +14,7 @@ My solution to the Easybank Landing Page challenge, built using vanilla HTML, CS
 [Repo](https://github.com/matthew-io/frontendmentor-loopstudios) | [Live Site](https://objective-williams-a1e086.netlify.app/) 
 </br>
 </br>
-<img src="https://i.gyazo.com/939d700d6b44e2f7e4eb6e44c5f08a89.jpg" width="750" height="500">
+<img src="https://i.gyazo.com/939d700d6b44e2f7e4eb6e44c5f08a89.jpg" width="500" height="333">
 
 My solution to the Loopstudios Landing Page challenge, built using vanilla HTML, CSS & JS.
 
@@ -22,6 +22,6 @@ My solution to the Loopstudios Landing Page challenge, built using vanilla HTML,
 [Repo](https://github.com/matthew-io/frontendmentor-fylo) | [Live Site](https://wonderful-cray-2b6012.netlify.app/)
 </br>
 </br>
-<img src="https://i.gyazo.com/32fc138382a8b2a6afb9ce4883c03285.png" width="750" height="500">
+<img src="https://i.gyazo.com/32fc138382a8b2a6afb9ce4883c03285.png" width="500" height="333">
 
 My solution to the Fylo Landing Page challenge, built with HTML & CSS.
