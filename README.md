@@ -3,6 +3,7 @@ A collection of my solutions to various Frontend Mentor challenges.
 
 ## Easybank Landing Page
 [Repo](https://github.com/matthew-io/frontendmentor-easybank)  | [Live Site](https://relaxed-cray-38b2ff.netlify.app/)
+</br>
 <img src="https://i.gyazo.com/fab63e4ab06e55ae318bd1576c3319d0.png" width="100" height="100">
 
 
