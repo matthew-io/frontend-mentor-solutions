@@ -4,7 +4,7 @@ A collection of my solutions to various Frontend Mentor challenges.
 ## Easybank Landing Page
 [Repo](https://github.com/matthew-io/frontendmentor-easybank)  | [Live Site](https://relaxed-cray-38b2ff.netlify.app/)
 </br>
-<img src="https://i.gyazo.com/fab63e4ab06e55ae318bd1576c3319d0.png" width="250" height="100">
+<img src="https://i.gyazo.com/fab63e4ab06e55ae318bd1576c3319d0.png" width="250" height="500">
 
 
 My solution to the Easybank Landing Page challenge, built using vanilla HTML, CSS & JS.
