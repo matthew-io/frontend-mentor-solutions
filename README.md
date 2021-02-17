@@ -5,7 +5,7 @@ A collection of my solutions to various Frontend Mentor challenges.
 [Repo](https://github.com/matthew-io/frontend-mentor-iptracker) | [Live Site](https://optimistic-gates-013f18.netlify.app/)
 </br>
 </br>
-<img src="https://i.gyazo.com/97ebf97b0cbd7ad6a8098b5f80c52fd9.png" width="570" height="333">
+<img src="https://i.gyazo.com/97ebf97b0cbd7ad6a8098b5f80c52fd9.png" width="650" height="333">
 
 ## Easybank Landing Page
 [Repo](https://github.com/matthew-io/frontendmentor-easybank)  | [Live Site](https://lucid-minsky-7ed414.netlify.app/)
