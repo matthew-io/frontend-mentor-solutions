@@ -1,7 +1,7 @@
 # Frontend-Mentor-Solutions
 A collection of my solutions to various Frontend Mentor challenges.
 
-## React IP Tracking APp
+## React IP Tracking App
 [Repo](https://github.com/matthew-io/frontend-mentor-iptracker) | [Live Site](https://optimistic-gates-013f18.netlify.app/)
 </br>
 </br>
