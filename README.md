@@ -1,5 +1,5 @@
 # Frontend-Mentor-Solutions
-A collection of my solutions to various Frontend Mentor challenges. The purpose of completing these challenges was to show my capability of building sites *without* the use of a framework like React or Vue.
+A collection of my solutions to various Frontend Mentor challenges. The purpose of completing these challenges was to show my capability of building fully-responsive sites *without* the use of a framework like React or Vue.
 
 ## Easybank Landing Page
 [Repo](https://github.com/matthew-io/frontendmentor-easybank)  | [Live Site](https://lucid-minsky-7ed414.netlify.app/)
